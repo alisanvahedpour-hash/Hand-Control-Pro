@@ -401,7 +401,19 @@ build_exe.bat
 Choose an appropriate open-source license before publishing.
 
 پیش از انتشار عمومی پروژه، مجوز متن‌باز مناسب را انتخاب و به مخزن اضافه کنید.
+---
+## 🤖 Development Credits | اعتبار توسعه
 
+**HandControlPro** was developed through a collaboration between its creator and Artificial Intelligence (AI).
+
+The project concept, direction, design decisions, development, testing, and final implementation were led by the creator, with AI assistance used for coding, debugging, problem-solving, and optimization.
+
+**HandControlPro** با همکاری سازنده پروژه و هوش مصنوعی توسعه داده شده است.
+
+ایده اصلی، مدیریت پروژه، تصمیم‌گیری‌های طراحی، توسعه، آزمایش و پیاده‌سازی نهایی توسط سازنده انجام شده و از هوش مصنوعی برای کمک در کدنویسی، اشکال‌زدایی، حل مشکلات و بهینه‌سازی استفاده شده است.
+
+**Created by:** Project Creator  
+**Development Assistance:** Artificial Intelligence (AI)
 ---
 
 <p align="center">
