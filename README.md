@@ -402,7 +402,7 @@ Choose an appropriate open-source license before publishing.
 
 پیش از انتشار عمومی پروژه، مجوز متن‌باز مناسب را انتخاب و به مخزن اضافه کنید.
 ---
-## 🤖 Development Credits | اعتبار توسعه
+## 🤖 Development Credits |  اعتبار توسعه
 
 **HandControlPro** was developed through a collaboration between its creator and Artificial Intelligence (AI).
 
